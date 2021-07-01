@@ -1,14 +1,6 @@
-/*const player = {
-	name: "nico",
-	age: 98,
-	
-};
-player.name = "nicolas"
-console.log(player);
-*/
+const title = document.getElementById("title");
 
-function plus(a, b){
-	console.log(a+b);
-}
+title.innerText="got you";
 
-plus(5, 10);
+console.log(title.id);
+console.log(title.className);
