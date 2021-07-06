@@ -1,6 +1,9 @@
-const title = document.getElementById("title");
+const age = 96;
+function caculatorKrAge(ageOF){
+	age + 2;
+	}
 
-title.innerText="got you";
 
-console.log(title.id);
-console.log(title.className);
+const krAge = caculatorKrAge(dageOF);
+
+console.log(Kr.age);
